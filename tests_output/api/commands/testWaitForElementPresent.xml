@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="testWaitForElementPresent"
+    errors="0" failures="0" hostname="" id="" package="commands" skipped="0"
+    tests="4" time="0.5980" timestamp="Tue, 20 Sep 2016 22:54:12 GMT">
+  
+    <testcase name="client.waitForElementPresent() success" time="0.01300" assertions="0">
+    </testcase>
+  
+    <testcase name="client.waitForElementPresent() failure with custom message" time="0.03400" assertions="0">
+    </testcase>
+  
+    <testcase name="client.waitForElementPresent() failure" time="0.03000" assertions="0">
+    </testcase>
+  
+    <testcase name="client.waitForElementPresent() failure no abort" time="0.5210" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="testUrl"
+    errors="0" failures="0" hostname="" id="" package="protocol" skipped="0"
+    tests="3" time="0.01300" timestamp="Tue, 20 Sep 2016 22:54:18 GMT">
+  
+    <testcase name="client.url() get" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="client.url() new" time="0.005000" assertions="0">
+    </testcase>
+  
+    <testcase name="client.url() get with callback" time="0.006000" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

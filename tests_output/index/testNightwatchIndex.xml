@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="15">
+
+  <testsuite name="testNightwatchIndex"
+    errors="0" failures="0" hostname="" id="" package="index" skipped="0"
+    tests="15" time="0.08200" timestamp="Tue, 20 Sep 2016 22:54:19 GMT">
+  
+    <testcase name="Test initialization" time="0.004000" assertions="0">
+    </testcase>
+  
+    <testcase name="Test runProtocolCommand without error" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="Test runProtocolAction with error" time="0.01700" assertions="0">
+    </testcase>
+  
+    <testcase name="testRunCommand" time="0.005000" assertions="0">
+    </testcase>
+  
+    <testcase name="testChromeSessionWithRedirectStatus" time="0.01100" assertions="0">
+    </testcase>
+  
+    <testcase name="Test saveScreenshotToFile" time="0.008000" assertions="0">
+    </testcase>
+  
+    <testcase name="Test saveScreenshotToFile mkpath failure" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="Test saveScreenshotToFile writeFile failure" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testSetOptions" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="testSetOptionsCredentials" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testSetOptionsScreenshots" time="0.004000" assertions="0">
+    </testcase>
+  
+    <testcase name="testSetOptionsScreenshotsOnError" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="testSetOptionsScreenshotsThrows" time="0.000" assertions="0">
+    </testcase>
+  
+    <testcase name="testEndSessionOnFail" time="0.005000" assertions="0">
+    </testcase>
+  
+    <testcase name="test session response with status success and no sessionId" time="0.006000" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

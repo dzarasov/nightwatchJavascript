@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="testWaitForElementVisible"
+    errors="0" failures="0" hostname="" id="" package="commands" skipped="0"
+    tests="5" time="0.08700" timestamp="Tue, 20 Sep 2016 22:54:13 GMT">
+  
+    <testcase name="client.waitForElementVisible() failure" time="0.02100" assertions="0">
+    </testcase>
+  
+    <testcase name="client.waitForElementVisible() fail with global timeout default" time="0.02200" assertions="0">
+    </testcase>
+  
+    <testcase name="client.waitForElementVisible() fail with global timeout default and custom message" time="0.02500" assertions="0">
+    </testcase>
+  
+    <testcase name="client.waitForElementVisible() StaleElementReference error" time="0.01400" assertions="0">
+    </testcase>
+  
+    <testcase name="client.waitForElementVisible() fail with no args and global timeout not set" time="0.005000" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

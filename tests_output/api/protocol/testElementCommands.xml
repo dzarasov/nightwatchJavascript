@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="20">
+
+  <testsuite name="testElementCommands"
+    errors="0" failures="0" hostname="" id="" package="protocol" skipped="0"
+    tests="20" time="0.06000" timestamp="Tue, 20 Sep 2016 22:54:18 GMT">
+  
+    <testcase name="testElement" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdElement" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementPlural" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdElementPlural" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementActive" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdClear" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdSelected" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdEnabled" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdEquals" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdAttribute" time="0.006000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdClick" time="0.004000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdCssProperty" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdDisplayed" time="0.005000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdLocation" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdLocationInView" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdName" time="0.004000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdSize" time="0.003000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdText" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdValueGet" time="0.004000" assertions="0">
+    </testcase>
+  
+    <testcase name="testElementIdValuePost" time="0.003000" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

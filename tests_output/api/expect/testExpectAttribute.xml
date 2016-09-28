@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="39">
+
+  <testsuite name="testExpectAttribute"
+    errors="0" failures="0" hostname="" id="" package="expect" skipped="0"
+    tests="39" time="1.209" timestamp="Tue, 20 Sep 2016 22:54:13 GMT">
+  
+    <testcase name="to have attribute [PASSED]" time="0.01500" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with waitFor [PASSED]" time="0.01400" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with implicit waitFor [PASSED]" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with implicit and custom waitFor [PASSED]" time="0.02600" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with waitFor [FAILED]" time="0.1240" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with implicit and custom waitFor [FAILED]" time="0.1190" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with message [PASSED]" time="0.006000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with message [FAILED]" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute [FAILED]" time="0.007000" assertions="0">
+    </testcase>
+  
+    <testcase name="to not have attribute [PASSED]" time="0.006000" assertions="0">
+    </testcase>
+  
+    <testcase name="to not have attribute [FAILED]" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute - element not found" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal to [PASSED]" time="0.007000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute which equals [PASSED]" time="0.005000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal to [FAILED]" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute NOT equal to [PASSED]" time="0.007000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute NOT equal to [FAILED]" time="0.01700" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal with waitFor [PASSED]" time="0.06000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal with custom waitFor [PASSED]" time="0.05900" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal and waitFor [FAILED] - attribute not found" time="0.1190" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal and custom waitFor [FAILED] - attribute not found" time="0.08500" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal and waitFor [FAILED] - attribute not equal" time="0.02500" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal to with message [PASSED]" time="0.01600" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal with message [FAILED] - attribute not found" time="0.01100" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal with message [FAILED] - attribute not equal" time="0.008000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute not contains [PASSED]" time="0.006000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute which contains [PASSED]" time="0.005000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute not contains [FAILED]" time="0.007000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute which matches [PASSED]" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute not match [PASSED]" time="0.006000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute not match [FAILED]" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute equal to - element not found" time="0.009000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute contains - element not found" time="0.007000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute match - element not found" time="0.006000" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with waitFor - element not found" time="0.1140" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with custom waitFor - element not found" time="0.1160" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with waitFor - element found on retry" time="0.06200" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute with custom waitFor - element found on retry" time="0.06200" assertions="0">
+    </testcase>
+  
+    <testcase name="to have attribute match - throws exception on invalid regex" time="0.01000" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

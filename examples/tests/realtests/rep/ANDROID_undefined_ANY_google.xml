@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="google"
+    errors="0" failures="1" hostname="" id="" package="google" skipped="0"
+    tests="1" time="51.20" timestamp="Tue, 20 Sep 2016 23:38:58 GMT">
+  
+    <testcase name="Demo test Google" time="51.20" assertions="3">
+
+    
+
+      <failure message="Expected element &lt;body&gt; to have attribute &quot;class&quot; which contains: &quot;vasq&quot;">    at Object.module.exports.Demo test Google (/Users/mikhaildzarasov/Desktop/newnghtwatch/nightwatch/examples/tests/realtests/google.js:13:19)
+    at Module.call (/Users/mikhaildzarasov/Desktop/newnghtwatch/nightwatch/lib/runner/module.js:62:34)
+    at /Users/mikhaildzarasov/Desktop/newnghtwatch/nightwatch/lib/runner/testcase.js:70:29</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

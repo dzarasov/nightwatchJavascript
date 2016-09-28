@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="23">
+
+  <testsuite name="testCliRunner"
+    errors="0" failures="0" hostname="" id="" package="cli" skipped="0"
+    tests="23" time="0.4380" timestamp="Tue, 20 Sep 2016 22:54:19 GMT">
+  
+    <testcase name="testInitDefaults" time="0.05000" assertions="0">
+    </testcase>
+  
+    <testcase name="testSetOutputFolder" time="0.01700" assertions="0">
+    </testcase>
+  
+    <testcase name="testReadSettingsDeprecated" time="0.01600" assertions="0">
+    </testcase>
+  
+    <testcase name="testCustomSettingsFileAndEnvironment" time="0.02100" assertions="0">
+    </testcase>
+  
+    <testcase name="testGetTestSourceSingle" time="0.02100" assertions="0">
+    </testcase>
+  
+    <testcase name="testGetTestSourceSingleWithAbsolutePath" time="0.02000" assertions="0">
+    </testcase>
+  
+    <testcase name="testGetTestSourceSingleWithRelativePath" time="0.02100" assertions="0">
+    </testcase>
+  
+    <testcase name="testGetTestSourceAsSecondArgument" time="0.01800" assertions="0">
+    </testcase>
+  
+    <testcase name="testRunTestsWithTestSourceSingleInvalid" time="0.02900" assertions="0">
+    </testcase>
+  
+    <testcase name="testRunTestsWithTestcaseOption" time="0.01700" assertions="0">
+    </testcase>
+  
+    <testcase name="testRunTestsWithTestcaseOptionAndSingleTestSource" time="0.01500" assertions="0">
+    </testcase>
+  
+    <testcase name="testRunTestsWithTestcaseOptionAndWithoutTest" time="0.03900" assertions="0">
+    </testcase>
+  
+    <testcase name="testGetTestSourceGroup" time="0.01900" assertions="0">
+    </testcase>
+  
+    <testcase name="testGetTestSourceMultipleGroups" time="0.02000" assertions="0">
+    </testcase>
+  
+    <testcase name="testParseTestSettingsInvalid" time="0.01300" assertions="0">
+    </testcase>
+  
+    <testcase name="testParseTestSettingsIncorrect" time="0.01700" assertions="0">
+    </testcase>
+  
+    <testcase name="testReadExternalGlobals" time="0.01800" assertions="0">
+    </testcase>
+  
+    <testcase name="testReadExternalGlobalsError" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="testStartSeleniumDisabled" time="0.01000" assertions="0">
+    </testcase>
+  
+    <testcase name="testStartSeleniumDisabledPerEnvironment" time="0.01100" assertions="0">
+    </testcase>
+  
+    <testcase name="testStartSeleniumEnvironmentOverride" time="0.01300" assertions="0">
+    </testcase>
+  
+    <testcase name="testStartSeleniuSession" time="0.02100" assertions="0">
+    </testcase>
+  
+    <testcase name="testStartSeleniumEnabled" time="0.01000" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

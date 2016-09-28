@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="9">
+
+  <testsuite name="testParallelExecution"
+    errors="0" failures="0" hostname="" id="" package="cli" skipped="0"
+    tests="9" time="3.227" timestamp="Tue, 20 Sep 2016 22:54:20 GMT">
+  
+    <testcase name="testParallelExecution" time="0.05200" assertions="0">
+    </testcase>
+  
+    <testcase name="testParallelExecutionWithWorkersDefaults" time="1.282" assertions="0">
+    </testcase>
+  
+    <testcase name="testParallelExecutionSameEnv" time="0.03700" assertions="0">
+    </testcase>
+  
+    <testcase name="testParallelExecutionWithWorkersAuto" time="1.285" assertions="0">
+    </testcase>
+  
+    <testcase name="testParallelExecutionWithWorkersCount" time="0.5170" assertions="0">
+    </testcase>
+  
+    <testcase name="testParallelExecutionWithWorkersDisabledPerEnvironment" time="0.01100" assertions="0">
+    </testcase>
+  
+    <testcase name="testParallelExecutionWithWorkersDisabledFromGrunt" time="0.01200" assertions="0">
+    </testcase>
+  
+    <testcase name="testParallelExecutionWithWorkersAndSingleSourceFile" time="0.01200" assertions="0">
+    </testcase>
+  
+    <testcase name="testWorkerAndGetTestSource" time="0.01900" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
