@@ -1,19 +1,20 @@
-module.exports = function (browser) {
+module.exports = function (ppp) {
+
   this.goToTanmay = function() {
-    browser
+    ppp
       .windowMaximize()
       .url('https://www.practice.xyz/')
       .waitForElementVisible('body', 1000)
-    return browser;
+    return ppp;
   };
 
 
   this.navigateToLoginPage = function() {
-    browser
+    ppp
       .click('#menu-item-344');
-    return browser;
+    return ppp;
   };
-  
+
 };
 
 
